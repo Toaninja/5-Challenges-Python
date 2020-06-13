@@ -26,6 +26,7 @@ def main():
 
     print(wordList2)
     print("Let's see what that leaves us with!")
+
     print(line1.format(wordList2[2], wordList2[0], wordList2[1], wordList2[3]))
 
 
